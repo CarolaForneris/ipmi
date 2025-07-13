@@ -1,5 +1,4 @@
-//link a youtube https://www.youtube.com/watch?v=fSzKj13oDxc
-
+//link a youtube https://youtu.be/fSzKj13oDxc
 PImage imagen;
 int cant = 3;
 int tam;
